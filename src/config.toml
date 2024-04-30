@@ -1,0 +1,5 @@
+[input]
+folder = "./input_folder"
+
+[output]
+file = "./output.xlsx"

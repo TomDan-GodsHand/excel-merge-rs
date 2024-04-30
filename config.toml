@@ -1,0 +1,5 @@
+[input]
+folder = "D:\\Workplace\\JustFun\\excel-merger-rs\\njysxj"
+
+[output]
+file = "output.xlsx"
